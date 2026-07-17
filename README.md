@@ -20,7 +20,7 @@ This project was developed as part of the AI and Robotics training program.
 - Evaluate prediction performance.
 
 ---
-
+![Description](images/forprojsm.jpg)
 ## 🛠 Technologies
 
 - Python
@@ -30,7 +30,9 @@ This project was developed as part of the AI and Robotics training program.
 - Pillow
 - VS Code
 
----
+--
+
+
 
 ## 📁 Project Structure
 Chocolate-Type-Classification/
