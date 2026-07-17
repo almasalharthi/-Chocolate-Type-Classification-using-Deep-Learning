@@ -20,7 +20,7 @@ This project was developed as part of the AI and Robotics training program.
 - Evaluate prediction performance.
 
 ---
-![Description](images/forprojsm.jpg)
+![Description](images/forprojsm.png)
 ## 🛠 Technologies
 
 - Python
